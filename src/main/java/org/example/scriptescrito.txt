@@ -1,0 +1,9 @@
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Mesa de Computador', 'Mesa compacta com acabamento em MDF',349.99);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Monitor Full HD', 'Monitor LED 24 polegadas',899.00);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Teclado Mecânico', 'Teclado mecânico com iluminação RGB',259.90);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Mouse Gamer', 'Mouse ergonômico com 8 botões programáveis',179.90);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Notebook', 'Notebook com processador i7 e 16GB de RAM',4899.99);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Smartphone', 'Smartphone com tela de 6.5 polegadas',2499.99);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Fone de Ouvido Bluetooth', 'Fone sem fio com cancelamento de ruído',499.90);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Impressora Multifuncional', 'Impressora com scanner e Wi-Fi integrado',749.90);
+INSERT INTO produtos (nome, descricao, preco ) VALUES('Cafeteira', 'Cafeteira elétrica com função programável',299.90);
